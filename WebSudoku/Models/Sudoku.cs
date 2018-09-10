@@ -39,15 +39,7 @@ namespace WebSudoku.Models
         public void FillInitialData()
         {
             Cell = InitCell(Cell);
-            //Replace 9 and 3 usages with constants
-            //Merge Mass and ResrveMass into single method and call it right after constructor call
-
-            //Cell = new SudokuCell[sudokuLength][];
-            //for (int i = 0; i < this.Cell.Length; i++)
-            //{
-            //    Cell[i] = new SudokuCell[sudokuLength];
-            //}
-
+           
             for (int p = 0; p < 3; p++)
             {
                 if (p == 2)
@@ -129,12 +121,7 @@ namespace WebSudoku.Models
         public void InitReserve()
         {
             ReservCell = InitCell(ReservCell);
-            //ReservCell = new SudokuCell[this.Cell.Length][];
-            //for (int i = 0; i < this.ReservCell.Length; i++)
-            //{
-            //    ReservCell[i] = new SudokuCell[this.Cell[i].Length];
-            //}
-
+          
             for (int i = 0; i < this.Cell.Length; i++)
             {
                 for (int j = 0; j < this.Cell[i].Length; j++)
