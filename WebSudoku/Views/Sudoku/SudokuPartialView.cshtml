@@ -1,0 +1,26 @@
+﻿@model WebSudoku.Models.Sudoku
+<script type="text/javascript">
+    var model = @Html.Raw(Json.Encode(Model));
+</script>
+
+@for (int i = 0; i < Model.Cell.Length; i++)
+{
+    <div class="draw-raw">
+        @for (int j = 0; j < Model.Cell[i].Length; j++)
+        {
+            if (Model.Cell[i][j].IsEmptyCell)
+            {
+                <div class="cell cell-input"><input type="text" readonly /></div>
+            }
+            else
+            {
+                <div class="cell cell-fixed">
+                    <span class="Inside">
+                        @Model.Cell[i][j].Data
+                    </span>
+                </div>
+            }
+        }
+    </div>
+}
+

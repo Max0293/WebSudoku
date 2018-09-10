@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+
+@{
+    ViewBag.Title = "StartPageSudoku";
+}
+
+<h1>Regulations of sudoku</h1>
+<div class="regulations">
+    Sudoku (数独 sūdoku, digit-single) (/suːˈdoʊkuː/, /-ˈdɒk-/, /sə-/, originally called Number Place)[1] is a logic-based,[2][3] combinatorial[4] number-placement puzzle. The objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 subgrids that compose the grid (also called "boxes", "blocks", or "regions") contains all of the digits from 1 to 9. The puzzle setter provides a partially completed grid, which for a well-posed puzzle has a single solution.
+    Completed games are always a type of Latin square with an additional constraint on the contents of individual regions. For example, the same single integer may not appear twice in the same row, column, or any of the nine 3×3 subregions of the 9x9 playing board.
+    French newspapers featured variations of the puzzles in the 19th century, and the puzzle has appeared since 1979 in puzzle books under the name Number Place.[5] However, the modern Sudoku only started to become mainstream in 1986 by the Japanese puzzle company Nikoli, under the name Sudoku, meaning "single number".[6] It first appeared in a US newspaper and then The Times (London) in 2004, from the efforts of Wayne Gould, who devised a computer program to rapidly produce distinct puzzles.
+</div>
+<div class="image"><img src="~/Content/Example.jpg" /></div>
+<hr />
+<br />
+<div class="History">
+    Number puzzles appeared in newspapers in the late 19th century, when French puzzle setters began experimenting with removing numbers from magic squares. Le Siècle, a Paris daily, published a partially completed 9×9 magic square with 3×3 subsquares on November 19, 1892.[7] It was not a Sudoku because it contained double-digit numbers and required arithmetic rather than logic to solve, but it shared key characteristics: each row, column and subsquare added up to the same number.
+    On July 6, 1895, Le Siècle's rival, La France, refined the puzzle so that it was almost a modern Sudoku. It simplified the 9×9 magic square puzzle so that each row, column, and broken diagonals contained only the numbers 1–9, but did not mark the subsquares. Although they are unmarked, each 3×3 subsquare does indeed comprise the numbers 1–9 and the additional constraint on the broken diagonals leads to only one solution.[8]
+    These weekly puzzles were a feature of French newspapers such as L'Echo de Paris for about a decade, but disappeared about the time of World War I.[9]
+</div> <br />
+
+<button id="btnRealSudoku" onclick="location.href = '/Sudoku/RealSudoku'">Go</button>
+<button id="btnTestSudoku" onclick="location.href = '/Sudoku/SudokuView'">Example</button>

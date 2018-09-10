@@ -1,0 +1,35 @@
+﻿@model WebSudoku.Models.Sudoku
+
+@{
+    ViewBag.Title = "RealSudoku";
+}
+
+<h2>RealSudoku</h2>
+
+<div class="button-level">
+    <div>Choice level</div>
+    <button class="button level-btn" data-level="1">Easy</button>
+    <button class="button level-btn" data-level="2">Medium</button>
+    <button class="button level-btn" data-level="3">Hard</button>
+</div>
+
+<br />
+<br />
+<div class="congratulation">
+    <span class="textCon">Congratulation</span>
+    <div class="finalImg"><img src="~/Content/giphy.gif" /></div>
+</div>
+
+<div class="draw-table" id="rdraw">
+
+</div>
+
+<br />
+<button class="button" id="refresh">Refresh</button>
+<button onclick="location.href = '/Sudoku/StartPage'">To Home Page</button>
+<button class="button" onclick="location.href = '/Sudoku/RealSudoku'">Next Sudoku</button>
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+<script src="~/Scripts/OtherButtons.js"></script>

@@ -1,0 +1,35 @@
+﻿@model WebSudoku.Models.Sudoku
+<!DOCTYPE html>
+<html>
+@{
+    ViewBag.Title = "SudokuView";
+}
+
+<body>
+    <header>
+        <h3>Sudoku</h3>
+    </header>
+
+    <h2>Sample sudoku</h2>
+    <hr>
+
+    <div>Click on button "Next", to see how work it.</div>
+    <br />
+    <div class="draw-table example">
+        @{
+            Html.RenderPartial("SudokuPartialView", Model);
+        }
+    </div>
+
+    <button class="button" id="btnNext">Next</button>
+    <button id="btnStartPage" onclick="location.href = '/Sudoku/StartPage'">To Home Page</button>
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/Scripts/ButtonNextExample.js"></script>
+    
+</body>
+
+</html>
+

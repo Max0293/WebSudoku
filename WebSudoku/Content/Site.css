@@ -1,0 +1,85 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+    outline: none;
+}
+
+.draw-table {
+    display: block;
+    height: 360px;
+    width: 360px;
+}
+
+.draw-raw {
+    display: inline-block;
+    float: left;
+}
+
+.cell {
+    float: left;
+    height: 40px;
+    width: 40px;
+    border: 1px;
+    border-style: solid;
+}
+
+    .cell input {
+        display: block;
+        height: 35px;
+        width: 35px;
+        background-color: inherit;
+        border: none;
+        margin: 2px auto;
+    }
+
+.cell-fixed {
+    background-color: #f1f1f1;
+}
+
+.Inside {
+    display: block;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.button {
+    margin-top: 20px;
+}
+
+#rdraw {
+    display: none;
+}
+
+.example {
+    height: 365px;
+    width: 364px;
+    display: block;
+    padding-left: 2px;
+    border: none;
+}
+
+.congratulation {
+    display: none;
+}
+
+.image {
+    height: 392px;
+}
+
+.textCon {
+    font-size: 25px;
+    color: red;
+}

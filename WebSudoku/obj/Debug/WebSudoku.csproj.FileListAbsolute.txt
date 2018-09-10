@@ -1,0 +1,213 @@
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\WebSudoku.dll.config
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\WebSudoku.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\WebSudoku.pdb
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\csc.exe
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\csc.exe.config
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\csc.rsp
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\csi.exe
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\csi.exe.config
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\csi.rsp
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.AppContext.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.Console.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.IO.Compression.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.Security.Claims.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.Threading.Thread.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.ValueTuple.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\vbc.exe
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\vbc.exe.config
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\vbc.rsp
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\VBCSCompiler.exe
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\System.Web.Helpers.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\System.Web.Mvc.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\System.Web.Razor.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\System.Web.Webpages.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\System.Web.Webpages.Razor.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\System.Web.Razor.xml
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\System.Web.Webpages.xml
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\System.Web.Webpages.Razor.xml
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\System.Web.Helpers.xml
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\System.Web.Mvc.xml
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\obj\Debug\WebSudoku.csprojAssemblyReference.cache
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\obj\Debug\WebSudoku.csproj.CoreCompileInputs.cache
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\obj\Debug\WebSudoku.csproj.CopyComplete
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\obj\Debug\WebSudoku.dll
+C:\Users\sever\OneDrive\Документи\Visual Studio 2017\Projects\WebSudoku\WebSudoku\obj\Debug\WebSudoku.pdb
+D:\WebSudoku\WebSudoku\bin\WebSudoku.dll.config
+D:\WebSudoku\WebSudoku\bin\WebSudoku.dll
+D:\WebSudoku\WebSudoku\bin\WebSudoku.pdb
+D:\WebSudoku\WebSudoku\bin\roslyn\csc.exe
+D:\WebSudoku\WebSudoku\bin\roslyn\csc.exe.config
+D:\WebSudoku\WebSudoku\bin\roslyn\csc.rsp
+D:\WebSudoku\WebSudoku\bin\roslyn\csi.exe
+D:\WebSudoku\WebSudoku\bin\roslyn\csi.exe.config
+D:\WebSudoku\WebSudoku\bin\roslyn\csi.rsp
+D:\WebSudoku\WebSudoku\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WebSudoku\WebSudoku\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WebSudoku\WebSudoku\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.AppContext.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.Collections.Immutable.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.Console.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.Diagnostics.Process.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.IO.Compression.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.IO.FileSystem.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.IO.Pipes.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.Reflection.Metadata.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.Security.AccessControl.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.Security.Claims.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.Security.Principal.Windows.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.Threading.Thread.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.ValueTuple.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.Xml.XPath.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WebSudoku\WebSudoku\bin\roslyn\vbc.exe
+D:\WebSudoku\WebSudoku\bin\roslyn\vbc.exe.config
+D:\WebSudoku\WebSudoku\bin\roslyn\vbc.rsp
+D:\WebSudoku\WebSudoku\bin\roslyn\VBCSCompiler.exe
+D:\WebSudoku\WebSudoku\bin\roslyn\VBCSCompiler.exe.config
+D:\WebSudoku\WebSudoku\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WebSudoku\WebSudoku\bin\Microsoft.Web.Infrastructure.dll
+D:\WebSudoku\WebSudoku\bin\System.Web.Helpers.dll
+D:\WebSudoku\WebSudoku\bin\System.Web.Mvc.dll
+D:\WebSudoku\WebSudoku\bin\System.Web.Razor.dll
+D:\WebSudoku\WebSudoku\bin\System.Web.Webpages.Deployment.dll
+D:\WebSudoku\WebSudoku\bin\System.Web.Webpages.dll
+D:\WebSudoku\WebSudoku\bin\System.Web.Webpages.Razor.dll
+D:\WebSudoku\WebSudoku\bin\System.Web.Razor.xml
+D:\WebSudoku\WebSudoku\bin\System.Web.Webpages.xml
+D:\WebSudoku\WebSudoku\bin\System.Web.Webpages.Deployment.xml
+D:\WebSudoku\WebSudoku\bin\System.Web.Webpages.Razor.xml
+D:\WebSudoku\WebSudoku\bin\System.Web.Helpers.xml
+D:\WebSudoku\WebSudoku\bin\System.Web.Mvc.xml
+D:\WebSudoku\WebSudoku\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WebSudoku\WebSudoku\obj\Debug\WebSudoku.csproj.CoreCompileInputs.cache
+D:\WebSudoku\WebSudoku\obj\Debug\WebSudoku.csproj.CopyComplete
+D:\WebSudoku\WebSudoku\obj\Debug\WebSudoku.dll
+D:\WebSudoku\WebSudoku\obj\Debug\WebSudoku.pdb
+E:\WebSudoku\WebSudoku\bin\WebSudoku.dll.config
+E:\WebSudoku\WebSudoku\bin\WebSudoku.dll
+E:\WebSudoku\WebSudoku\bin\WebSudoku.pdb
+E:\WebSudoku\WebSudoku\bin\roslyn\csc.exe
+E:\WebSudoku\WebSudoku\bin\roslyn\csc.exe.config
+E:\WebSudoku\WebSudoku\bin\roslyn\csc.rsp
+E:\WebSudoku\WebSudoku\bin\roslyn\csi.exe
+E:\WebSudoku\WebSudoku\bin\roslyn\csi.exe.config
+E:\WebSudoku\WebSudoku\bin\roslyn\csi.rsp
+E:\WebSudoku\WebSudoku\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WebSudoku\WebSudoku\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WebSudoku\WebSudoku\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.AppContext.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.Collections.Immutable.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.Console.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.Diagnostics.Process.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.IO.Compression.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.IO.FileSystem.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.IO.Pipes.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.Reflection.Metadata.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.Security.AccessControl.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.Security.Claims.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.Security.Principal.Windows.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.Threading.Thread.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.ValueTuple.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.Xml.XPath.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WebSudoku\WebSudoku\bin\roslyn\vbc.exe
+E:\WebSudoku\WebSudoku\bin\roslyn\vbc.exe.config
+E:\WebSudoku\WebSudoku\bin\roslyn\vbc.rsp
+E:\WebSudoku\WebSudoku\bin\roslyn\VBCSCompiler.exe
+E:\WebSudoku\WebSudoku\bin\roslyn\VBCSCompiler.exe.config
+E:\WebSudoku\WebSudoku\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WebSudoku\WebSudoku\bin\Microsoft.Web.Infrastructure.dll
+E:\WebSudoku\WebSudoku\bin\System.Web.Helpers.dll
+E:\WebSudoku\WebSudoku\bin\System.Web.Mvc.dll
+E:\WebSudoku\WebSudoku\bin\System.Web.Razor.dll
+E:\WebSudoku\WebSudoku\bin\System.Web.Webpages.Deployment.dll
+E:\WebSudoku\WebSudoku\bin\System.Web.Webpages.dll
+E:\WebSudoku\WebSudoku\bin\System.Web.Webpages.Razor.dll
+E:\WebSudoku\WebSudoku\bin\System.Web.Razor.xml
+E:\WebSudoku\WebSudoku\bin\System.Web.Webpages.xml
+E:\WebSudoku\WebSudoku\bin\System.Web.Webpages.Deployment.xml
+E:\WebSudoku\WebSudoku\bin\System.Web.Webpages.Razor.xml
+E:\WebSudoku\WebSudoku\bin\System.Web.Helpers.xml
+E:\WebSudoku\WebSudoku\bin\System.Web.Mvc.xml
+E:\WebSudoku\WebSudoku\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WebSudoku\WebSudoku\obj\Debug\WebSudoku.csprojAssemblyReference.cache
+E:\WebSudoku\WebSudoku\obj\Debug\WebSudoku.csproj.CoreCompileInputs.cache
+E:\WebSudoku\WebSudoku\obj\Debug\WebSudoku.csproj.CopyComplete
+E:\WebSudoku\WebSudoku\obj\Debug\WebSudoku.dll
+E:\WebSudoku\WebSudoku\obj\Debug\WebSudoku.pdb
+D:\WebSudoku\WebSudoku\obj\Debug\WebSudoku.csprojAssemblyReference.cache
